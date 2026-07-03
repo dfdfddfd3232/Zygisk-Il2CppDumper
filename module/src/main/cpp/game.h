@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.je.supersus"
+#define GamePackageName "com.herogame.gplay.magicminecraft.mmorpg"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
